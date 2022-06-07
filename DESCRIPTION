@@ -1,0 +1,12 @@
+Package: volsys
+Title: Jednoduchý přepočet hlasů na mandáty
+Version: 0.0.0.9000
+Authors@R: 
+    person("Vojtěch", "Greger", , "vojtagreger@me.com", role = c("aut", "cre"),
+           comment = c(ORCID = "BRUH69420"))
+Description: Balík volsys umožňuje rychle a lehce přepočíst hlasy získané politickými subjekty ve volbách na mandáty.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
